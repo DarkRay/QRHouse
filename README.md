@@ -1,4 +1,4 @@
 QRHouse
 =======
 
-the man folder of qrhouse that we well find ubuntu fils and android fils
+The man folder of QRHouse thats you well find Ubuntu files and Android files
